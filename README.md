@@ -107,10 +107,10 @@ Make a short -  3-5 min video of yourself, put it on youtube/googledrive, and pu
 
 I plan to execute these steps to complete my project.
 
-- [TODO] Step 1: Create a proper project structure
-- [TODO] Step 2: Create a `.env` file and add API keys
-- [TODO] Step 3: Create a central configuration file
-- [TODO] Step 4: Create the knowledge base and prepare learned queries
+- [DONE] Step 1: Create a proper project structure
+- [DONE] Step 2: Create a `.env` file and add API keys
+- [DONE] Step 3: Create a central configuration file
+- [DONE] Step 4: Create the knowledge base and prepare learned queries
 - [TODO] Step 5: Create tools (Base Tool, Weather Tool, Calculator Tool, Time Tool, Web-Search Tool)  
 - [TODO] Step 6: Create the Tool Manager  
 - [TODO] Step 7: Create the LLM client  
