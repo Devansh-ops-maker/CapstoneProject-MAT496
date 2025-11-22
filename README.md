@@ -111,8 +111,8 @@ I plan to execute these steps to complete my project.
 - [DONE] Step 2: Create a `.env` file and add API keys
 - [DONE] Step 3: Create a central configuration file
 - [DONE] Step 4: Create the knowledge base and prepare learned queries
-- [TODO] Step 5: Create tools (Base Tool, Weather Tool, Calculator Tool, Time Tool, Web-Search Tool)  
-- [TODO] Step 6: Create the Tool Manager  
+- [DONE] Step 5: Create tools (Base Tool, Weather Tool, Calculator Tool, Time Tool, Web-Search Tool)  
+- [DONE] Step 6: Create the Tool Manager  
 - [TODO] Step 7: Create the LLM client  
 - [TODO] Step 8: Create the RAG system
 - [TODO] Step 9: Creating Semantic Search Agent  
