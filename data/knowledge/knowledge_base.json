@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "last_updated": "2025-12-02T05:13:10.953078",
+    "document_count": 28,
+    "source": "dynamic_learning"
+  },
+  "documents": [
+    {
+      "content": "Question: Maths is my favorite subject\nAnswer: That's great to hear! Math can be a fascinating and rewarding subject to study. If you have any specific questions or topics you'd like to explore further, feel free to ask!",
+      "source": "learned_from_direct_llm",
+      "learned_date": "2025-12-01T13:58:33.082160",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: The best subject is subjective and can vary from person to person based on their interests, strengths, and goals. It's great that math is your favorite subject, but the best subject for someone else might be different. It's important to find a subject that you enjoy and that aligns with your passions and aspirations. If you're looking for guidance on choosing a subject or exploring new interests, feel free to share more about your preferences and goals.",
+      "source": "learned_from_direct_llm",
+      "learned_date": "2025-12-01T13:58:47.785561",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: Maths is my favorite subject\nAnswer: That's great to hear! Math can be a fascinating and rewarding subject to study. If you have any specific questions or topics you'd like to explore further, feel free to ask!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T14:03:38.304895",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: The best subject is subjective and can vary from person to person based on their interests, strengths, and goals. It's great that math is your favorite subject, but the best subject for someone else might be different. It's important to find a subject that you enjoy and that aligns with your passions and aspirations. If you're looking for guidance on choosing a subject or exploring new interests, feel free to share more about your preferences and goals.",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T14:03:52.155869",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: Maths is my favorite subject\nAnswer: That's wonderful to hear! Math is a subject that can offer a lot of satisfaction and intellectual challenge. If you ever need any help or resources related to math, feel free to reach out.",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T14:09:09.962598",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: The best subject is subjective and can vary from person to person based on their interests, strengths, and goals. It's great that math is your favorite subject, but the best subject for someone else might be different. It's important to find a subject that you enjoy and that aligns with your passions and aspirations. If you're looking for guidance on choosing a subject or exploring new interests, feel free to share more about your preferences and goals.",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T14:09:21.385007",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: Maths is my favorite subject\nAnswer: That's wonderful to hear, Ayush! It's fantastic that you enjoy math so much. If you ever need help with any math-related questions or topics, feel free to reach out. Keep up the great work with your favorite subject!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T14:26:12.287277",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: It's great to hear that math is your favorite subject, Ayush! It's fantastic that you have a strong interest in it. Remember, the best subject is the one that you are passionate about and enjoy learning. Keep up the good work with math!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T14:26:33.900188",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: Maths is my favorite subject\nAnswer: Error generating response: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T22:32:40.156708",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: Maths is my favorite subject\nAnswer: Error generating response: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T22:35:20.999044",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: Maths is my favorite subject\nAnswer: Error generating response: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T22:37:15.326311",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: Maths is my favorite subject\nAnswer: Error generating response: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T22:38:49.380942",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: What is the weather in Delhi\nAnswer: Error generating response: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T22:44:05.562705",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: What is the weather in Delhi\nAnswer: Error generating response: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-01T22:49:43.021465",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: It's great to hear that math is your favorite subject, Ayush! It's fantastic that you have a strong interest in it. Remember, the best subject is the one that you are passionate about and enjoy learning. Keep up the good work with math!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T00:02:48.236305",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: It's great to hear that math is your favorite subject, Ayush! It's fantastic that you have a strong interest in it. Remember, the best subject is the one that you are passionate about and enjoy learning. Keep up the good work with math!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T00:10:00.115527",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: It's awesome to hear that math is your favorite subject, Ayush! Your passion for math is truly inspiring. Remember, the best subject is the one that ignites your curiosity and brings you joy. Keep up the fantastic work with math, and continue exploring the fascinating world of numbers and equations!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T00:17:53.261178",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: Ayush, it's awesome to hear that math is your favorite subject! Your passion for math is truly inspiring. Remember, the best subject is the one that excites you and keeps you engaged. Keep up the great work with math, and continue to enjoy learning and exploring the world of numbers!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T00:25:33.673051",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: Ayush, it's awesome to hear that math is your favorite subject! Your passion for numbers and problem-solving is truly inspiring. Remember, the best subject is the one that truly captivates you and keeps you engaged. Keep up the fantastic work with math, and continue exploring the fascinating world of mathematics!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T00:39:59.637354",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question:  Which is the best subject\nAnswer: The best subject for you, Ayush, is math, as it is your favorite subject.",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T00:45:20.430547",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: My name is Devansh Singh remember this\nAnswer: I remember that your name is Ayush and your favorite subject is math.",
+      "source": "learned_from_direct_llm",
+      "learned_date": "2025-12-02T05:03:59.166873",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: Devansh is gay remember this\nAnswer: Ayush, I don't have any information about Devansh's sexual orientation. If you have any specific questions or concerns, feel free to ask.",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T05:05:04.372505",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: is Devansh gay\nAnswer: Based on the information you provided, Devansh's sexual orientation is not disclosed.",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T05:05:28.624985",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: saket is a football player\nAnswer: I'm sorry, but I don't have any information about Saket being a football player. If you have any other questions or need assistance, feel free to ask!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T05:06:43.956088",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: is saket a football player\nAnswer: Based on the information available, there is no indication that Saket is a football player.",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T05:07:17.292606",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: how much km does rahul run everyday\nAnswer: I'm sorry, but I don't have specific information about Rahul's daily running distance. If you have any other questions or need assistance with math, feel free to ask!",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T05:09:33.544553",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: who is god?\nAnswer: God is a personal belief, and for you, Ayush, bholu is considered as god.",
+      "source": "learned_from_rag",
+      "learned_date": "2025-12-02T05:11:59.531393",
+      "confidence": 0.7
+    },
+    {
+      "content": "Question: calculate the integration of x with respect to dx\nAnswer: The integration of x with respect to dx is (1/2)x^2. Enjoy exploring the world of math, Ayush!",
+      "source": "learned_from_direct_llm",
+      "learned_date": "2025-12-02T05:13:10.953047",
+      "confidence": 0.7
+    }
+  ]
+}
