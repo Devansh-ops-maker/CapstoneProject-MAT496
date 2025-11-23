@@ -116,8 +116,8 @@ I plan to execute these steps to complete my project.
 - [DONE] Step 7: Create the LLM client  
 - [DONE] Step 8: Create the RAG system
 - [DONE] Step 9: Creating Semantic Search Agent  
-- [TODO] Step 10: Creating Evaluator  
-- [TODO] Step 11: Creating ReAct-agent  
+- [DONE] Step 10: Creating Evaluator  
+- [DONE] Step 11: Creating ReAct-agent  
 - [TODO] Step 12: Creating memory manager and extractor
 - [TODO] Step 13: Creating main model (Personal Assistant)  
 - [TODO] Step 14: Adding human-in-loop mechanism  
