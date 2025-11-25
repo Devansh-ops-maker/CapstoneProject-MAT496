@@ -121,7 +121,7 @@ I plan to execute these steps to complete my project.
 - [DONE] Step 12: Creating memory manager and extractor
 - [DONE] Step 13: Creating main model (Personal Assistant)  
 - [DONE] Step 14: Adding human-in-loop mechanism  
-- [TODO] Step 15: Adding Assistant CLI  
+- [DONE] Step 15: Adding Assistant CLI  
 - [TODO] Step 16: Adding langgraph
 - [TODO] Step 17: Adding mermaid diagram of project workflow
 - [TODO] Step 18: Adding requirements file 
