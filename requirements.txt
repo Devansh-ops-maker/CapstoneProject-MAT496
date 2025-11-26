@@ -1,0 +1,6 @@
+# requirements.txt
+openai>=1.0.0
+numpy>=1.21.0
+python-dotenv>=1.0.0
+requests>=2.25.0
+tiktoken>=0.5.0
