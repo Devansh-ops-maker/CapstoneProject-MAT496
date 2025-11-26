@@ -129,7 +129,9 @@ I plan to execute these steps to complete my project.
 
 ## Conclusion:
 
-I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
+I aimed to understand the underlying concepts behind how advanced models like ChatGPT and Claude work and how they are built. Throughout this process, I was able to grasp several important ideas, such as how user interactions are stored and utilized as memory, how high-quality responses are generated, how the best response is selected among multiple candidates, how large datasets are managed, and how debugging is handled in large-scale AI systems.
+
+However, I could not fully achieve my goal of training my model using LangSmith datasets created from user interactions. This aspect still requires deeper exploration and implementation. I plan to continue learning about this feature and integrate it into my system in the future.
 
 ----------
 
