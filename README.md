@@ -24,7 +24,7 @@ The first purpose of the capstone project is to give a chance to revise all the 
 
 # Project report Template
 
-## Title: [your title goes here]
+## Title: Personal Agent 
 
 ## Overview
 
@@ -50,7 +50,7 @@ Make a short -  3-5 min video of yourself, put it on youtube/googledrive, and pu
 
 I plan to execute these steps to complete my project.
 
-- [TODO] Step 1 involves blah blah
+- [TODO] Step 1: Creating proper structure for the project 
 - [TODO] Step 2 involves blah blah
 - [TODO] Step 3 involves blah blah
 - ...
