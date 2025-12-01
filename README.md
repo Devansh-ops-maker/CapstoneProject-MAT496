@@ -118,7 +118,10 @@ I plan to execute these steps to complete my project.
 - [TODO] Step 9: Creating Semantic Search Agent  
 - [TODO] Step 10: Creating Evaluator  
 - [TODO] Step 11: Creating ReAct-agent  
-- [TODO] Step 12: Creating memory manager and extractor  
+- [TODO] Step 12: Creating memory manager and extractor
+- [TODO] Step 13: Creating main model (Personal Assistant)  
+- [TODO] Step 14: Adding human-in-loop mechanism  
+- [TODO] Step 15: Adding Assistant CLI  
 
 
 ## Conclusion:
