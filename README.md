@@ -114,7 +114,11 @@ I plan to execute these steps to complete my project.
 - [TODO] Step 5: Create tools (Base Tool, Weather Tool, Calculator Tool, Time Tool, Web-Search Tool)  
 - [TODO] Step 6: Create the Tool Manager  
 - [TODO] Step 7: Create the LLM client  
-- [TODO] Step 8: Create the RAG system  
+- [TODO] Step 8: Create the RAG system
+- [TODO] Step 9: Creating Semantic Search Agent  
+- [TODO] Step 10: Creating Evaluator  
+- [TODO] Step 11: Creating ReAct-agent  
+- [TODO] Step 12: Creating memory manager and extractor  
 
 
 ## Conclusion:
