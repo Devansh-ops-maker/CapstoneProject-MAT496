@@ -107,11 +107,11 @@ Make a short -  3-5 min video of yourself, put it on youtube/googledrive, and pu
 
 I plan to execute these steps to complete my project.
 
-- [TODO] Step 1: Creating proper structure for the project 
-- [TODO] Step 2 involves blah blah
-- [TODO] Step 3 involves blah blah
-- ...
-- [TODO] Step n involves blah blah
+- [TODO] Step 1: Create a proper project structure
+- [TODO] Step 2: Create a `.env` file and add API keys
+- [TODO] Step 3: Create a central configuration file
+- [TODO] Step 4: Create the knowledge base and prepare learned queries
+
 
 ## Conclusion:
 
