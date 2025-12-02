@@ -91,7 +91,7 @@ All user interactions are stored as LangSmith datasets. These datasets serve as 
 
 The reason for choosing this project is that personal agents are typically built on top of LLMs, which provide the intelligence needed to understand instructions, maintain context, and generate useful responses. After completing an LLM course, creating a personal agent is the most practical way to apply and reinforce every concept learned. This project also helps deepen understanding of how widely used models like ChatGPT, Claude, and Groq operate. Additionally, it provides hands-on experience with features such as memory, tool usage, and the processes involved in training or customizing models. For these reasons, building a Personal Assistant is the most suitable and meaningful project I could undertake after completing the LLM course.
 
-## Video Summary Link: 
+## Video Summary Link: https://drive.google.com/file/d/1699kdAh-sRK5f-2Db9y8p9kwtmenxFGT/view?usp=sharing
 
 Make a short -  3-5 min video of yourself, put it on youtube/googledrive, and put its link in your README.md.
 
